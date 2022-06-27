@@ -1,9 +1,5 @@
-[playlist]
-numberofentries=2
-File1=http://hivane01.frequence3.net/frequence3.flac
-Title1=FREQUENCE 3 FLAC
-Length1=-1
-File2=http://amp.cesnet.cz:8000/cro-radio-wave.flac
-Title2=CRo Radio Wave FLAC
-Length2=-1
-Version=2
+#EXTM3U
+#EXTINF:-1,FREQUENCE 3 FLAC
+http://hivane01.frequence3.net/frequence3.flac
+#EXTINF:-1,CRo Radio Wave FLAC
+http://amp.cesnet.cz:8000/cro-radio-wave.flac
